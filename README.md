@@ -7,9 +7,9 @@ This project is aimed at building a system that can identify musical instruments
 The instrument identification system consists of several components:
 
 1. **Data Collection**: Gathering audio recordings of various musical instruments. This dataset will serve as the basis for training our machine learning models.
-   - [Kaggle](https://freesound.org/): In this dataset, we have employed a 2D representation of Music Instruments. Filename ".wav_files" contains all .wav files of different music instruments.
-   
-   - [Zenoda.org](https://magenta.tensorflow.org/datasets/nsynth): TinySOL is a dataset of 2913 samples, each containing a single musical note from one of 14 different instruments:audio samples for training machine learning models.
+   - [Kaggle Dataset](https://www.kaggle.com/datasets/dibakarsil/music-instruments-and-2d-figures): This dataset contains a collection of audio recordings and 2D representations of various musical instruments. The ".wav_files" folder contains all the .wav files of different musical instruments.
+   - [Zenodo Dataset](https://zenodo.org/records/3685367): TinySOL is a dataset of 2913 samples, each containing a single musical note from one of 14 different instruments. These audio samples will be used for training machine learning models.
+
 
 2. **Preprocessing**: Since the data obtained from the selected databases (Zenoda and Kaggle Dataset) is already clean and well-curated, no preprocessing steps are required. The audio recordings are ready for feature extraction without the need for resampling, noise reduction, or segmentation.
 
