@@ -19,4 +19,6 @@ The instrument identification system consists of several components:
 
 6. **Evaluation**: Evaluating the performance of the trained models using various metrics such as accuracy, precision, recall, and F1 score. The achieved accuracy reached up to <font color="red">98%</font>.
 
+   ![Evaluation](Result.png)
+
 👉For more detailed information, please refer to the [Record.pdf](Record.pdf) document.
