@@ -17,7 +17,7 @@ The instrument identification system consists of several components:
 
 5. **Model Training**: Training machine learning models  using the extracted features. The trained models will learn to classify audio samples into different instrument categories.
 
-6. **Evaluation**: Evaluating the performance of the trained models using various metrics such as accuracy, precision, recall, and F1 score. The achieved accuracy reached up to <font color="red">98%</font>.
+6. **Evaluation**:  Evaluating the performance of the trained models using various metrics such as accuracy, precision, recall, and F1 score. The achieved accuracy reached up to **<span style="color: green;">98%</span>**.
 
    ![Evaluation](Result.png)
 
